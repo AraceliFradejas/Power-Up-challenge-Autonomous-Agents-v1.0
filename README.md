@@ -1,5 +1,5 @@
 # Power-Up-challenge-Autonomous-Agents-v1.0
-## 🤖Briefing  Power-Up Challenge – Autonomous Agents v1.0
+## 🤖Briefing  
 
 This project was built as part of the **Autonomous Agents Final Challenge** in the Microsoft Power Up program.
 
